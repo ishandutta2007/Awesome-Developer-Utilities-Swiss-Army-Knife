@@ -38,7 +38,7 @@ Welcome to the definitive, curated index of **Developer Utilities & Swiss-Army K
 - [☁️ SaaS & Hosted Platforms](#️-saas--hosted-platforms)
 - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🤝 How to Contribute](#-how-to-contribute)
-- [☕ Support & Share](#-support--share)
+- [💖 Support](#-support)
 - [📜 Star History](#-star-history)
 - [⚠️ Disclaimer](#️-disclaimer)
 
@@ -152,13 +152,21 @@ Contributions are warmly welcomed! Help make developer utilities and Swiss-army 
 
 ---
 
-## ☕ Support & Share
+## 💖 Support
 
-If you find this curated list helpful, please consider supporting the project:
+Thank you for visiting and using this curated developer utilities guide! If you find this project valuable for your daily development workflows, homelab, or team toolsets, your support is truly appreciated and helps keep this list up to date and comprehensive:
 
-- ⭐ **Star this repository** to help fellow developers and engineers discover it.
-- 📢 **Fork & Share** it with your team, coworkers, or tech communities on X/Twitter, LinkedIn, and Reddit.
-- 💖 **Sponsor on GitHub**: Support open-source maintenance and ecosystem tracking on [GitHub Sponsors](https://github.com/sponsors/ishandutta2007).
+- ⭐ **Star this repository**: It only takes a second and helps boost visibility across the developer community.
+- 🍴 **Fork the project**: Keep a personal copy and contribute your favorite developer utilities back via Pull Requests.
+- 📢 **Share with others**: Recommend this repository to your friends, coworkers, engineering teams, and community on X/Twitter, LinkedIn, Reddit, or Discord.
+- ☕ **Buy me a coffee**: If you'd like to support ongoing open-source maintenance, research, and curation, consider buying me a coffee or sponsoring through the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<div align="center">
+
+[![Sponsor @ishandutta2007](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ishandutta2007)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://github.com/sponsors/ishandutta2007)
+
+</div>
 
 ---
 
