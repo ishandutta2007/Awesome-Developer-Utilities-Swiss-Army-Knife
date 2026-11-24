@@ -1,245 +1,175 @@
-# Awesome-Developer-Utilities-Swiss-Army-Knife
+# 🛠️ Awesome-Developer-Utilities-Swiss-Army-Knife
 
-## Top Developer Utilities & Swiss-Army Knife Ecosystem
+<div align="center">
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Developer-Utilities-Swiss-Army-Knife/graphs/commit-activity)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
+<br/><br/>
+
+<img src="./assets/banner.svg" alt="Awesome Developer Utilities and Swiss-Army Knife Banner" width="100%" />
+
+</div>
+
+## 🌐 Top Developer Utilities & Swiss-Army Knife Ecosystem
 
 **Curated List of SaaS/Hosted Platforms & Open-Source GitHub Projects**  
-
-*Focused on All-in-One Developer Toolboxes, Self-Hosted Web Utilities, Offline Data Encoders/Decoders, Payload Formatters & Multi-Tool Scratchpads*  
+*Focused on All-in-One Developer Toolboxes, Self-Hosted Web Utilities, Offline Data Encoders/Decoders, Payload Formatters, Local Network Helpers & Multi-Tool Scratchpads.*
 
 **Last updated: November 2026**
 
+---
 
+### 🔍 Overview & SEO Highlights
+Welcome to the definitive, curated index of **Developer Utilities & Swiss-Army Knives**! Whether you are a full-stack engineer, DevOps/SRE, security analyst, or homelab self-hoster, this repository tracks tools that encode, decode, format, validate, hash, diff, convert, inspect, and benchmark JSON, YAML, JWTs, SQL, Base64, regular expressions, images, PDF documents, and cryptographic payloads.
 
-This repository tracks notable **SaaS/hosted platforms** and **open-source projects** for **Developer Utilities & Swiss-Army Knives**. These tools encode, decode, format, validate, hash, diff, convert, and inspect JSON, YAML, JWTs, SQL, Base64, regexes, images, and cryptographic payloads inside all-in-one self-hosted web dashboards, offline desktop apps, and browser playgrounds.
-
-
-
-**Examples** include CyberChef, IT-Tools (`CorentinTh/it-tools`), DevToys, ExtendsClass, Retool Utilities, ToolJet Tools, Boop, WebFX Tools, OmniTools, and DevUtils (the category leaders and popular runtimes). 
-
-
-
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosted web developer Swiss-army knives (`CorentinTh/it-tools`, `CyberChef`, `OmniTools`, `Web-Check`, `Stirling-PDF`), offline desktop developer toolboxes (`DevToys`, `Boop`, `He3-compatible OSS tools`), and terminal/TUI Swiss-army knives (`Posting`, `fx`, `jq/yq`) — ideal for full-stack developers, DevOps/SREs, security analysts, and homelab self-hosters.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saashosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Support & Share](#support--share)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-
-
-- **[DevUtils (macOS Commercial Developer Toolbox)](https://devutils.com)**  
-
-  Native macOS offline developer Swiss-army knife featuring 45+ tools (JWT debugger, JSON/YAML/SQL formatters, Unix timestamp converters, regex tester) with smart clipboard auto-detection.
-
-
-
-- **[Retool Utilities & Free Developer Tools](https://retool.com)**  
-
-  Hosted collection of browser-based developer utilities and rapid internal-tool builders for JSON formatting, SQL generation, cron parsing, and API testing.
-
-
-
-- **[ToolJet Cloud & Hosted Utilities](https://tooljet.com)**  
-
-  Cloud low-code internal tool platform offering hosted web utilities, database inspectors, and rapid developer dashboard builders.
-
-
-
-- **[ExtendsClass](https://extendsclass.com)**  
-
-  Web-based online developer playground and utility suite offering JSON/XML/SQL validators, diff checkers, regex testers, and REST API sandboxes.
-
-
-
-- **[WebFX Developer & Web Tools](https://webfx.com)**  
-
-  Hosted suite of browser-based web developer utilities covering HTML/CSS/JS minifiers, `.htaccess` generators, schema markup builders, and encoding helpers.
-
-
-
-- **[Regex101 & JSONLint / CodeBeautify Hosted Suites](https://regex101.com)**  
-
-  Popular browser-hosted developer utilities for real-time regular expression debugging, JSON/XML beautification, and Base64/hash conversions.
-
-
-
-- **[SmallDev.tools & Transform.tools (Hosted Web Suites)](https://transform.tools)**  
-
-  Polyglot online developer converter playgrounds transforming JSON, GraphQL, TypeScript, Zod, OpenAPI, SVG, and CSS formats instantaneously in the browser.
-
-
-
-- **[CyberChef (GCHQ Official Hosted Web App)](https://github.io)**  
-
-  Official hosted browser instance of the "Cyber Swiss Army Knife" performing client-side encryption, compression, hex/binary inspection, and chained data recipes.
-
-
-
-
-
-## Open-Source GitHub Projects
-
-
-
-- **[IT-Tools (`CorentinTh/it-tools`)](https://github.com)**  
-
-  Flagship self-hosted open-source web collection of 80+ handy utilities for developers and IT professionals (JWT parsers, Docker run-to-compose, UUID/ULID generators, hashers, cron generators) with a clean Vue UI.
-
-
-
-- **[DevToys (`DevToys-app/DevToys`)](https://github.com)**  
-
-  Cross-platform open-source offline Swiss-army knife for developers (Windows, macOS, Linux, CLI) featuring smart clipboard detection, JSON/YAML converters, regex testers, and image/text utilities.
-
-
-
-- **[CyberChef (`gchq/CyberChef`)](https://github.com)**  
-
-  Industry-standard open-source web app for encryption, encoding, compression, forensic parsing, and chained "recipe" data transformations running 100% locally in the browser.
-
-
-
-- **[OmniTools (`iib0011/omni-tools`)](https://github.com)**  
-
-  Self-hosted open-source all-in-one web utility suite bundling dozens of client-side tools for image/video manipulation, PDF processing, JSON/CSV transforms, and developer helpers.
-
-
-
-- **[Boop (`IvanMathy/Boop`)](https://github.com)**  
-
-  Scriptable open-source macOS developer scratchpad enabling instant, offline text transformations (JSON formatting, Base64, URL decoding, JWT inspection) via extensible JavaScript plugins.
-
-
-
-- **[Transform (`ritz078/transform`)](https://github.com)**  
-
-  Open-source polyglot web converter that transforms JSON to TypeScript/Go/Rust structs, SVG to JSX, HTML to Markdown, and GraphQL schemas cleanly in the browser.
-
-
-
-- **[Stirling-PDF (`Stirling-Tools/Stirling-PDF`)](https://github.com)**  
-
-  Robust, self-hosted open-source Docker web application serving as a complete Swiss-army knife for local PDF merging, splitting, OCR, redaction, and format conversion.
-
-
-
-- **[Web-Check (`Lissy93/web-check`)](https://github.com)**  
-
-  All-in-one open-source OSINT and web infrastructure Swiss-army knife inspecting SSL certificates, DNS records, HTTP headers, cookies, tech stacks, and open ports for any URL.
-
-
-
-- **[Mazanoke (`civilblur/mazanoke`) & Squoosh (`GoogleChromeLabs/squoosh`)](https://github.com)**  
-
-  Self-hosted open-source browser-based image optimization and format conversion Swiss-army knives running 100% locally via WebAssembly with zero cloud uploads.
-
-
-
-- **[jq (`jqlang/jq`) & yq (`mikefarah/yq`)](https://github.com)**  
-
-  Essential open-source command-line JSON, YAML, XML, and TOML Swiss-army knives allowing developers to slice, filter, map, and transform structured data in shell pipelines.
-
-
-
-- **[fx (`antonmedv/fx`) & Posting (`darrenburns/posting`)](https://github.com)**  
-
-  Interactive open-source terminal JSON viewer and modern TUI HTTP API client bringing visual data inspection and request testing directly into your terminal.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[HOPPSCOTCH (`hoppscotch/hoppscotch`)](https://github.com)** and **[Bruno (`usebruno/bruno`)](https://github.com)** for open-source, Git-friendly API testing Swiss-army knives replacing Postman/Insomnia.
-
-- **[Excalidraw (`excalidraw/excalidraw`)](https://github.com)** and **[Mermaid Live Editor (`mermaid-js/mermaid-live-editor`)](https://github.com)** for self-hostable developer diagramming and architecture sketching scratchpads.
-
-- **[Wakapi / Uptime Kuma (`louislam/uptime-kuma`)](https://github.com)** and **[Dozzle (`amir20/dozzle`)](https://github.com)** for self-hosted monitoring and real-time container log inspection alongside `IT-Tools`.
-
-- **[delta (`dandavison/delta`)](https://github.com)** and **[difftastic (`Wilfred/difftastic`)](https://github.com)** for syntax-highlighted, side-by-side, and Tree-sitter structural diff utilities in the terminal.
-
-- **[LocalSend (`localsend/localsend`)](https://github.com)** for a cross-platform open-source AirDrop alternative sharing files and text snippets securely across local networks without internet access.
-
-
-
-**Frameworks for building custom systems**: Combine **IT-Tools + CyberChef + OmniTools + Stirling-PDF** in Docker for a complete self-hosted web Swiss-army knife, **DevToys + Boop** for offline desktop payload utilities, and **jq + yq + fx + Bruno** for a fast local CLI/API developer toolkit.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS/hosted or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Support & Share
-
-
-
-If you find this curated list helpful, consider supporting the project:
-
-
-
-- ⭐ **Star this repository** to help others discover it.
-
-- 🍴 **Fork & Share** it with your team, friends, or community on X/Twitter, LinkedIn, and Reddit.
-
-- ☕ **Buy me a coffee / Sponsor** my open-source work on [GitHub Sponsors](https://github.com) — featuring tiers for profile badges, README shoutouts, logo placements, and prioritized bug fixes/features!
-
-
-
-[![Sponsor @ishandutta2007](https://shields.io)](https://github.com)
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Never paste production JWT tokens, private RSA/SSH keys, API secrets, or sensitive customer PII into third-party hosted web utilities (`ExtendsClass`, online JSON formatters); always use offline desktop tools (`DevToys`, `Boop`, CLI utilities) or self-hosted containers (`IT-Tools`, `CyberChef`, `OmniTools`).
-
-- Self-hosted utility portals (`IT-Tools`, `Stirling-PDF`, `Web-Check`) exposed outside your local LAN should run behind HTTPS/TLS reverse proxies and authentication controls.
-
-
+- **Offline-First Security & Privacy**: Eliminate sensitive data leaks by utilizing client-side WebAssembly apps and local desktop native binaries.
+- **Docker & Homelab Ready**: Deploy turnkey web utility dashboards (`IT-Tools`, `CyberChef`, `Stirling-PDF`, `OmniTools`) behind your reverse proxies.
+- **Terminal & TUI Efficiency**: Supercharge command-line workflows with interactive terminals (`jq`, `yq`, `fx`, `Posting`, `difftastic`).
 
 ---
 
+## 📑 Table of Contents
 
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS & Hosted Platforms](#️-saas--hosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [☕ Support & Share](#-support--share)
+- [📜 Star History](#-star-history)
+- [⚠️ Disclaimer](#️-disclaimer)
 
-**Made for full-stack developers, DevOps/SREs, security analysts, homelab self-hosters, and open-source contributors.**  
+---
 
-Let's make developer utilities and Swiss-army knife toolboxes more open, private, and offline-ready.
+## 📊 Sector Overview & Market Dynamics
+
+The global core software developer tools and application development software market is estimated at **$7.5B to $260B+** (with core coding, testing, and debugging developer utilities accounting for ~$7.5B in 2024–2026 and growing at an ~16% CAGR toward $16B+ by 2030). The developer utility and Swiss-army knife sector remains **moderately to highly fragmented** rather than a winner-take-all monopoly: while enterprise heavyweights (like Postman and Retool) dominate integrated enterprise workflows and API management, long-tail micro-utilities, niche offline desktop apps, and self-hosted open-source dashboards thrive independently due to strict developer privacy, offline compliance, and localized team needs.
+
+---
+
+## ☁️ SaaS & Hosted Platforms
+
+The following SaaS and hosted platforms offer all-in-one developer utilities, internal dashboards, cloud formatters, and online playgrounds. Sorted by company scale (Valuation / Revenue) descending:
+
+| SaaS Platform 🚀 | Scale (Valuation / Revenue) 🏢 | Starting Pricing Tier 💳 | Free Tier / Trial Limits 🎁 | Description 📝 |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Postman](https://www.postman.com)** | **$5.6B Valuation** (~$313M ARR) | **$14/user/month** (Basic plan billed annually) | **Free Forever plan**: Capped at up to 3 team members, 25 collections, and 1,000 cloud API calls/month. | Collaborative API client platform offering request builders, mock servers, automated testing suites, and developer debugging environments. |
+| **[Retool Utilities](https://retool.com)** | **$3.2B Valuation** (~$120M–$138M ARR) | **$10/user/month** (Team plan billed annually) | **Free Forever plan**: Supports up to 5 users total, 500 workflow runs/month, 250 AI credits/month, 20 agent hours/month, and 5GB database/file storage. | Hosted developer utilities alongside rapid low-code dashboard builders for JSON formatting, SQL generation, cron parsing, and backend workflows. |
+| **[WebFX Tools](https://www.webfx.com)** | **~$168M–$284M Revenue** (~750+ employees) | **$500/month** (Starting agency tier) | **Free Forever plan**: 100% free web utilities directly in-browser with unlimited client-side runs (HTML/CSS/JS minifiers, `.htaccess` generators, schema builders). | Web agency digital toolbox offering browser-based minifiers, schema generators, SEO payload validators, and encoding helpers. |
+| **[ToolJet Cloud](https://tooljet.com)** | **~$8.5M ARR** ($6.15M+ funding) | **$19/builder/month** (Basic plan billed annually) | **Free Forever plan**: Capped at 2 builders, up to 50 end-users, 2–3 active applications, and 100 AI credits/month. | Open-source backed low-code internal tool platform offering hosted web utilities, database inspectors, and reactive dashboards. |
+| **[Regex101](https://regex101.com)** | **~$600K–$1M ARR** (Bootstrapped / Indie) | **€4.99/month** (€59.88/year billed annually) | **Free Forever plan**: Unlimited basic pattern matching, code generation, up to 2 test strings, and a 50-step debugger execution trace limit. | Browser-hosted regular expression testing, debugging, and visualization suite supporting PCRE, JavaScript, Python, and Golang flavors. |
+| **[ExtendsClass](https://extendsclass.com)** | **~$200K ARR** (Bootstrapped / Ads & Pro) | **$5/month** ($39/year for SafeJSON Pro) | **Free Forever plan**: Unlimited client-side formatters and validators, capped at 10,000 requests/month for free mock API and JSON storage endpoints. | Online developer playground and utility suite featuring JSON/XML/SQL validators, visual diff checkers, regex testers, and mock HTTP sandboxes. |
+| **[DevUtils](https://devutils.com)** | **~$60K ARR** ($5K/month bootstrapped) | **$29 one-time** (Perpetual license for 1 Mac) | **14-day free trial**: Fully functional trial with all 45+ tools unlocked, followed by a demo mode with periodic activation reminders. | Native macOS offline developer Swiss-army knife featuring 45+ tools (JWT debugger, JSON/YAML/SQL formatters, timestamp converter) with smart clipboard auto-detection. |
+
+---
+
+## 💻 Open-Source GitHub Projects
+
+Curated open-source projects for self-hosted web developer Swiss-army knives, offline desktop applications, and terminal/TUI utilities. Sorted by GitHub Star Count descending:
+
+- **[Excalidraw (`excalidraw/excalidraw`)](https://github.com/excalidraw/excalidraw)** [![GitHub stars](https://img.shields.io/github/stars/excalidraw/excalidraw?style=social&color=white)](https://github.com/excalidraw/excalidraw/stargazers)  
+  Virtual collaborative whiteboard & sketch diagramming scratchpad.
+
+- **[LocalSend (`localsend/localsend`)](https://github.com/localsend/localsend)** [![GitHub stars](https://img.shields.io/github/stars/localsend/localsend?style=social&color=white)](https://github.com/localsend/localsend/stargazers)  
+  Cross-platform, open-source secure local network file & text sharing.
+
+- **[Stirling-PDF (`Stirling-Tools/Stirling-PDF`)](https://github.com/Stirling-Tools/Stirling-PDF)** [![GitHub stars](https://img.shields.io/github/stars/Stirling-Tools/Stirling-PDF?style=social&color=white)](https://github.com/Stirling-Tools/Stirling-PDF/stargazers)  
+  Self-hosted Docker Swiss-army knife for PDF merging, splitting, OCR, and editing.
+
+- **[Uptime Kuma (`louislam/uptime-kuma`)](https://github.com/louislam/uptime-kuma)** [![GitHub stars](https://img.shields.io/github/stars/louislam/uptime-kuma?style=social&color=white)](https://github.com/louislam/uptime-kuma/stargazers)  
+  Self-hosted monitoring utility dashboard with alerts and status pages.
+
+- **[Hoppscotch (`hoppscotch/hoppscotch`)](https://github.com/hoppscotch/hoppscotch)** [![GitHub stars](https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social&color=white)](https://github.com/hoppscotch/hoppscotch/stargazers)  
+  Lightweight, Git-friendly open-source API development & testing suite.
+
+- **[Bruno (`usebruno/bruno`)](https://github.com/usebruno/bruno)** [![GitHub stars](https://img.shields.io/github/stars/usebruno/bruno?style=social&color=white)](https://github.com/usebruno/bruno/stargazers)  
+  Offline-first, open-source desktop API client storing collections in plain files.
+
+- **[IT-Tools (`CorentinTh/it-tools`)](https://github.com/CorentinTh/it-tools)** [![GitHub stars](https://img.shields.io/github/stars/CorentinTh/it-tools?style=social&color=white)](https://github.com/CorentinTh/it-tools/stargazers)  
+  Flagship self-hosted web collection of 80+ handy utilities for developers & IT pros.
+
+- **[Insomnia (`Kong/insomnia`)](https://github.com/Kong/insomnia)** [![GitHub stars](https://img.shields.io/github/stars/Kong/insomnia?style=social&color=white)](https://github.com/Kong/insomnia/stargazers)  
+  Open-source desktop API design, debugging, and mock client platform.
+
+- **[CyberChef (`gchq/CyberChef`)](https://github.com/gchq/CyberChef)** [![GitHub stars](https://img.shields.io/github/stars/gchq/CyberChef?style=social&color=white)](https://github.com/gchq/CyberChef/stargazers)  
+  GCHQ Cyber Swiss Army Knife for encryption, encoding, compression & forensic recipes.
+
+- **[jq (`jqlang/jq`)](https://github.com/jqlang/jq)** [![GitHub stars](https://img.shields.io/github/stars/jqlang/jq?style=social&color=white)](https://github.com/jqlang/jq/stargazers)  
+  Command-line JSON processor and transformation Swiss-army knife.
+
+- **[Web-Check (`Lissy93/web-check`)](https://github.com/Lissy93/web-check)** [![GitHub stars](https://img.shields.io/github/stars/Lissy93/web-check?style=social&color=white)](https://github.com/Lissy93/web-check/stargazers)  
+  All-in-one OSINT and web infrastructure analyzer inspecting DNS, SSL, and server headers.
+
+- **[Delta (`dandavison/delta`)](https://github.com/dandavison/delta)** [![GitHub stars](https://img.shields.io/github/stars/dandavison/delta?style=social&color=white)](https://github.com/dandavison/delta/stargazers)  
+  Syntax-highlighting, paging pager for git, diff, and grep output.
+
+- **[DevToys (`DevToys-app/DevToys`)](https://github.com/DevToys-app/DevToys)** [![GitHub stars](https://img.shields.io/github/stars/DevToys-app/DevToys?style=social&color=white)](https://github.com/DevToys-app/DevToys/stargazers)  
+  Cross-platform offline developer Swiss-army knife with smart clipboard inspection.
+
+- **[Difftastic (`Wilfred/difftastic`)](https://github.com/Wilfred/difftastic)** [![GitHub stars](https://img.shields.io/github/stars/Wilfred/difftastic?style=social&color=white)](https://github.com/Wilfred/difftastic/stargazers)  
+  Structural syntax-aware diff tool computing diffs based on ASTs rather than lines.
+
+- **[Squoosh (`GoogleChromeLabs/squoosh`)](https://github.com/GoogleChromeLabs/squoosh)** [![GitHub stars](https://img.shields.io/github/stars/GoogleChromeLabs/squoosh?style=social&color=white)](https://github.com/GoogleChromeLabs/squoosh/stargazers)  
+  Browser-based image optimization and format converter running offline via WebAssembly.
+
+- **[fx (`antonmedv/fx`)](https://github.com/antonmedv/fx)** [![GitHub stars](https://img.shields.io/github/stars/antonmedv/fx?style=social&color=white)](https://github.com/antonmedv/fx/stargazers)  
+  Interactive terminal JSON viewer, slice-and-dice processor, and stream explorer.
+
+- **[yq (`mikefarah/yq`)](https://github.com/mikefarah/yq)** [![GitHub stars](https://img.shields.io/github/stars/mikefarah/yq?style=social&color=white)](https://github.com/mikefarah/yq/stargazers)  
+  Portable command-line YAML, JSON, XML, CSV, and TOML processor.
+
+- **[Dozzle (`amir20/dozzle`)](https://github.com/amir20/dozzle)** [![GitHub stars](https://img.shields.io/github/stars/amir20/dozzle?style=social&color=white)](https://github.com/amir20/dozzle/stargazers)  
+  Real-time lightweight Docker container log viewer and process statistics monitor.
+
+- **[Posting (`darrenburns/posting`)](https://github.com/darrenburns/posting)** [![GitHub stars](https://img.shields.io/github/stars/darrenburns/posting?style=social&color=white)](https://github.com/darrenburns/posting/stargazers)  
+  Modern terminal TUI HTTP API client with autocompletion and environment configurations.
+
+- **[OmniTools (`iib0011/omni-tools`)](https://github.com/iib0011/omni-tools)** [![GitHub stars](https://img.shields.io/github/stars/iib0011/omni-tools?style=social&color=white)](https://github.com/iib0011/omni-tools/stargazers)  
+  Self-hosted all-in-one browser toolsuite for media, PDF, and code transforms.
+
+- **[Transform (`ritz078/transform`)](https://github.com/ritz078/transform)** [![GitHub stars](https://img.shields.io/github/stars/ritz078/transform?style=social&color=white)](https://github.com/ritz078/transform/stargazers)  
+  Polyglot web converter turning JSON to TS/Rust/Go, SVG to JSX, and schema formats.
+
+- **[Mermaid Live Editor (`mermaid-js/mermaid-live-editor`)](https://github.com/mermaid-js/mermaid-live-editor)** [![GitHub stars](https://img.shields.io/github/stars/mermaid-js/mermaid-live-editor?style=social&color=white)](https://github.com/mermaid-js/mermaid-live-editor/stargazers)  
+  Browser-based live scratchpad for rendering diagrams from text definitions.
+
+- **[Boop (`IvanMathy/Boop`)](https://github.com/IvanMathy/Boop)** [![GitHub stars](https://img.shields.io/github/stars/IvanMathy/Boop?style=social&color=white)](https://github.com/IvanMathy/Boop/stargazers)  
+  Extensible scriptable scratchpad for macOS with JavaScript transformation scripts.
+
+---
+
+## 🤝 How to Contribute
+
+Contributions are warmly welcomed! Help make developer utilities and Swiss-army knife toolboxes more accessible, privacy-focused, and comprehensive:
+
+1. 🍴 **Fork the repo**.
+2. 🌿 **Create a new branch**: `git checkout -b feature/add-new-utility`.
+3. ✍️ **Add or edit entries** in `README.md` (keep alphabetical or star-sorted formatting, include badges and specific pricing/free-tier details).
+4. 🚀 **Submit a Pull Request** with a clear explanation of why the tool belongs in this Swiss-army knife curated collection.
+
+---
+
+## ☕ Support & Share
+
+If you find this curated list helpful, please consider supporting the project:
+
+- ⭐ **Star this repository** to help fellow developers and engineers discover it.
+- 📢 **Fork & Share** it with your team, coworkers, or tech communities on X/Twitter, LinkedIn, and Reddit.
+- 💖 **Sponsor on GitHub**: Support open-source maintenance and ecosystem tracking on [GitHub Sponsors](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Developer-Utilities-Swiss-Army-Knife&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Developer-Utilities-Swiss-Army-Knife&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer
+
+- This is a **community-curated list** — entries are listed for informational purposes and do not represent a commercial endorsement.
+- 🔒 **Security Notice**: Never paste production JWT secrets, private SSH/RSA keys, API tokens, or customer PII into third-party hosted cloud utilities. Always rely on offline desktop software (`DevToys`, `Boop`, CLI tools) or locally-hosted Docker instances (`IT-Tools`, `CyberChef`, `OmniTools`).
+- 🛡️ **Network Notice**: Self-hosted portals (`IT-Tools`, `Stirling-PDF`, `Web-Check`) exposed to the public internet should always be secured behind HTTPS/TLS reverse proxies with multi-factor authentication.
