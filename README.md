@@ -68,75 +68,75 @@ The following SaaS and hosted platforms offer all-in-one developer utilities, in
 
 ## 💻 Open-Source GitHub Projects
 
-Curated open-source projects for self-hosted web developer Swiss-army knives, offline desktop applications, and terminal/TUI utilities. Sorted by GitHub Star Count descending:
+Curated open-source projects for self-hosted web developer Swiss-army knives, offline desktop applications, and terminal/TUI utilities. Sorted by GitHub Stars_Count descending:
 
-- **[Excalidraw (`excalidraw/excalidraw`)](https://github.com/excalidraw/excalidraw)** [![GitHub stars](https://img.shields.io/github/stars/excalidraw/excalidraw?style=social&color=white)](https://github.com/excalidraw/excalidraw/stargazers)  
+- **[Excalidraw (`excalidraw/excalidraw`)](https://github.com/excalidraw/excalidraw)** [![GitHub_Stars](https://img.shields.io/github/stars/excalidraw/excalidraw?style=social&color=white)](https://github.com/excalidraw/excalidraw/stargazers)  
   Virtual collaborative whiteboard & sketch diagramming scratchpad.
 
-- **[LocalSend (`localsend/localsend`)](https://github.com/localsend/localsend)** [![GitHub stars](https://img.shields.io/github/stars/localsend/localsend?style=social&color=white)](https://github.com/localsend/localsend/stargazers)  
+- **[LocalSend (`localsend/localsend`)](https://github.com/localsend/localsend)** [![GitHub_Stars](https://img.shields.io/github/stars/localsend/localsend?style=social&color=white)](https://github.com/localsend/localsend/stargazers)  
   Cross-platform, open-source secure local network file & text sharing.
 
-- **[Stirling-PDF (`Stirling-Tools/Stirling-PDF`)](https://github.com/Stirling-Tools/Stirling-PDF)** [![GitHub stars](https://img.shields.io/github/stars/Stirling-Tools/Stirling-PDF?style=social&color=white)](https://github.com/Stirling-Tools/Stirling-PDF/stargazers)  
+- **[Stirling-PDF (`Stirling-Tools/Stirling-PDF`)](https://github.com/Stirling-Tools/Stirling-PDF)** [![GitHub_Stars](https://img.shields.io/github/stars/Stirling-Tools/Stirling-PDF?style=social&color=white)](https://github.com/Stirling-Tools/Stirling-PDF/stargazers)  
   Self-hosted Docker Swiss-army knife for PDF merging, splitting, OCR, and editing.
 
-- **[Uptime Kuma (`louislam/uptime-kuma`)](https://github.com/louislam/uptime-kuma)** [![GitHub stars](https://img.shields.io/github/stars/louislam/uptime-kuma?style=social&color=white)](https://github.com/louislam/uptime-kuma/stargazers)  
+- **[Uptime Kuma (`louislam/uptime-kuma`)](https://github.com/louislam/uptime-kuma)** [![GitHub_Stars](https://img.shields.io/github/stars/louislam/uptime-kuma?style=social&color=white)](https://github.com/louislam/uptime-kuma/stargazers)  
   Self-hosted monitoring utility dashboard with alerts and status pages.
 
-- **[Hoppscotch (`hoppscotch/hoppscotch`)](https://github.com/hoppscotch/hoppscotch)** [![GitHub stars](https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social&color=white)](https://github.com/hoppscotch/hoppscotch/stargazers)  
+- **[Hoppscotch (`hoppscotch/hoppscotch`)](https://github.com/hoppscotch/hoppscotch)** [![GitHub_Stars](https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social&color=white)](https://github.com/hoppscotch/hoppscotch/stargazers)  
   Lightweight, Git-friendly open-source API development & testing suite.
 
-- **[Bruno (`usebruno/bruno`)](https://github.com/usebruno/bruno)** [![GitHub stars](https://img.shields.io/github/stars/usebruno/bruno?style=social&color=white)](https://github.com/usebruno/bruno/stargazers)  
+- **[Bruno (`usebruno/bruno`)](https://github.com/usebruno/bruno)** [![GitHub_Stars](https://img.shields.io/github/stars/usebruno/bruno?style=social&color=white)](https://github.com/usebruno/bruno/stargazers)  
   Offline-first, open-source desktop API client storing collections in plain files.
 
-- **[IT-Tools (`CorentinTh/it-tools`)](https://github.com/CorentinTh/it-tools)** [![GitHub stars](https://img.shields.io/github/stars/CorentinTh/it-tools?style=social&color=white)](https://github.com/CorentinTh/it-tools/stargazers)  
+- **[IT-Tools (`CorentinTh/it-tools`)](https://github.com/CorentinTh/it-tools)** [![GitHub_Stars](https://img.shields.io/github/stars/CorentinTh/it-tools?style=social&color=white)](https://github.com/CorentinTh/it-tools/stargazers)  
   Flagship self-hosted web collection of 80+ handy utilities for developers & IT pros.
 
-- **[Insomnia (`Kong/insomnia`)](https://github.com/Kong/insomnia)** [![GitHub stars](https://img.shields.io/github/stars/Kong/insomnia?style=social&color=white)](https://github.com/Kong/insomnia/stargazers)  
+- **[Insomnia (`Kong/insomnia`)](https://github.com/Kong/insomnia)** [![GitHub_Stars](https://img.shields.io/github/stars/Kong/insomnia?style=social&color=white)](https://github.com/Kong/insomnia/stargazers)  
   Open-source desktop API design, debugging, and mock client platform.
 
-- **[CyberChef (`gchq/CyberChef`)](https://github.com/gchq/CyberChef)** [![GitHub stars](https://img.shields.io/github/stars/gchq/CyberChef?style=social&color=white)](https://github.com/gchq/CyberChef/stargazers)  
+- **[CyberChef (`gchq/CyberChef`)](https://github.com/gchq/CyberChef)** [![GitHub_Stars](https://img.shields.io/github/stars/gchq/CyberChef?style=social&color=white)](https://github.com/gchq/CyberChef/stargazers)  
   GCHQ Cyber Swiss Army Knife for encryption, encoding, compression & forensic recipes.
 
-- **[jq (`jqlang/jq`)](https://github.com/jqlang/jq)** [![GitHub stars](https://img.shields.io/github/stars/jqlang/jq?style=social&color=white)](https://github.com/jqlang/jq/stargazers)  
+- **[jq (`jqlang/jq`)](https://github.com/jqlang/jq)** [![GitHub_Stars](https://img.shields.io/github/stars/jqlang/jq?style=social&color=white)](https://github.com/jqlang/jq/stargazers)  
   Command-line JSON processor and transformation Swiss-army knife.
 
-- **[Web-Check (`Lissy93/web-check`)](https://github.com/Lissy93/web-check)** [![GitHub stars](https://img.shields.io/github/stars/Lissy93/web-check?style=social&color=white)](https://github.com/Lissy93/web-check/stargazers)  
+- **[Web-Check (`Lissy93/web-check`)](https://github.com/Lissy93/web-check)** [![GitHub_Stars](https://img.shields.io/github/stars/Lissy93/web-check?style=social&color=white)](https://github.com/Lissy93/web-check/stargazers)  
   All-in-one OSINT and web infrastructure analyzer inspecting DNS, SSL, and server headers.
 
-- **[Delta (`dandavison/delta`)](https://github.com/dandavison/delta)** [![GitHub stars](https://img.shields.io/github/stars/dandavison/delta?style=social&color=white)](https://github.com/dandavison/delta/stargazers)  
+- **[Delta (`dandavison/delta`)](https://github.com/dandavison/delta)** [![GitHub_Stars](https://img.shields.io/github/stars/dandavison/delta?style=social&color=white)](https://github.com/dandavison/delta/stargazers)  
   Syntax-highlighting, paging pager for git, diff, and grep output.
 
-- **[DevToys (`DevToys-app/DevToys`)](https://github.com/DevToys-app/DevToys)** [![GitHub stars](https://img.shields.io/github/stars/DevToys-app/DevToys?style=social&color=white)](https://github.com/DevToys-app/DevToys/stargazers)  
+- **[DevToys (`DevToys-app/DevToys`)](https://github.com/DevToys-app/DevToys)** [![GitHub_Stars](https://img.shields.io/github/stars/DevToys-app/DevToys?style=social&color=white)](https://github.com/DevToys-app/DevToys/stargazers)  
   Cross-platform offline developer Swiss-army knife with smart clipboard inspection.
 
-- **[Difftastic (`Wilfred/difftastic`)](https://github.com/Wilfred/difftastic)** [![GitHub stars](https://img.shields.io/github/stars/Wilfred/difftastic?style=social&color=white)](https://github.com/Wilfred/difftastic/stargazers)  
+- **[Difftastic (`Wilfred/difftastic`)](https://github.com/Wilfred/difftastic)** [![GitHub_Stars](https://img.shields.io/github/stars/Wilfred/difftastic?style=social&color=white)](https://github.com/Wilfred/difftastic/stargazers)  
   Structural syntax-aware diff tool computing diffs based on ASTs rather than lines.
 
-- **[Squoosh (`GoogleChromeLabs/squoosh`)](https://github.com/GoogleChromeLabs/squoosh)** [![GitHub stars](https://img.shields.io/github/stars/GoogleChromeLabs/squoosh?style=social&color=white)](https://github.com/GoogleChromeLabs/squoosh/stargazers)  
+- **[Squoosh (`GoogleChromeLabs/squoosh`)](https://github.com/GoogleChromeLabs/squoosh)** [![GitHub_Stars](https://img.shields.io/github/stars/GoogleChromeLabs/squoosh?style=social&color=white)](https://github.com/GoogleChromeLabs/squoosh/stargazers)  
   Browser-based image optimization and format converter running offline via WebAssembly.
 
-- **[fx (`antonmedv/fx`)](https://github.com/antonmedv/fx)** [![GitHub stars](https://img.shields.io/github/stars/antonmedv/fx?style=social&color=white)](https://github.com/antonmedv/fx/stargazers)  
+- **[fx (`antonmedv/fx`)](https://github.com/antonmedv/fx)** [![GitHub_Stars](https://img.shields.io/github/stars/antonmedv/fx?style=social&color=white)](https://github.com/antonmedv/fx/stargazers)  
   Interactive terminal JSON viewer, slice-and-dice processor, and stream explorer.
 
-- **[yq (`mikefarah/yq`)](https://github.com/mikefarah/yq)** [![GitHub stars](https://img.shields.io/github/stars/mikefarah/yq?style=social&color=white)](https://github.com/mikefarah/yq/stargazers)  
+- **[yq (`mikefarah/yq`)](https://github.com/mikefarah/yq)** [![GitHub_Stars](https://img.shields.io/github/stars/mikefarah/yq?style=social&color=white)](https://github.com/mikefarah/yq/stargazers)  
   Portable command-line YAML, JSON, XML, CSV, and TOML processor.
 
-- **[Dozzle (`amir20/dozzle`)](https://github.com/amir20/dozzle)** [![GitHub stars](https://img.shields.io/github/stars/amir20/dozzle?style=social&color=white)](https://github.com/amir20/dozzle/stargazers)  
+- **[Dozzle (`amir20/dozzle`)](https://github.com/amir20/dozzle)** [![GitHub_Stars](https://img.shields.io/github/stars/amir20/dozzle?style=social&color=white)](https://github.com/amir20/dozzle/stargazers)  
   Real-time lightweight Docker container log viewer and process statistics monitor.
 
-- **[Posting (`darrenburns/posting`)](https://github.com/darrenburns/posting)** [![GitHub stars](https://img.shields.io/github/stars/darrenburns/posting?style=social&color=white)](https://github.com/darrenburns/posting/stargazers)  
+- **[Posting (`darrenburns/posting`)](https://github.com/darrenburns/posting)** [![GitHub_Stars](https://img.shields.io/github/stars/darrenburns/posting?style=social&color=white)](https://github.com/darrenburns/posting/stargazers)  
   Modern terminal TUI HTTP API client with autocompletion and environment configurations.
 
-- **[OmniTools (`iib0011/omni-tools`)](https://github.com/iib0011/omni-tools)** [![GitHub stars](https://img.shields.io/github/stars/iib0011/omni-tools?style=social&color=white)](https://github.com/iib0011/omni-tools/stargazers)  
+- **[OmniTools (`iib0011/omni-tools`)](https://github.com/iib0011/omni-tools)** [![GitHub_Stars](https://img.shields.io/github/stars/iib0011/omni-tools?style=social&color=white)](https://github.com/iib0011/omni-tools/stargazers)  
   Self-hosted all-in-one browser toolsuite for media, PDF, and code transforms.
 
-- **[Transform (`ritz078/transform`)](https://github.com/ritz078/transform)** [![GitHub stars](https://img.shields.io/github/stars/ritz078/transform?style=social&color=white)](https://github.com/ritz078/transform/stargazers)  
+- **[Transform (`ritz078/transform`)](https://github.com/ritz078/transform)** [![GitHub_Stars](https://img.shields.io/github/stars/ritz078/transform?style=social&color=white)](https://github.com/ritz078/transform/stargazers)  
   Polyglot web converter turning JSON to TS/Rust/Go, SVG to JSX, and schema formats.
 
-- **[Mermaid Live Editor (`mermaid-js/mermaid-live-editor`)](https://github.com/mermaid-js/mermaid-live-editor)** [![GitHub stars](https://img.shields.io/github/stars/mermaid-js/mermaid-live-editor?style=social&color=white)](https://github.com/mermaid-js/mermaid-live-editor/stargazers)  
+- **[Mermaid Live Editor (`mermaid-js/mermaid-live-editor`)](https://github.com/mermaid-js/mermaid-live-editor)** [![GitHub_Stars](https://img.shields.io/github/stars/mermaid-js/mermaid-live-editor?style=social&color=white)](https://github.com/mermaid-js/mermaid-live-editor/stargazers)  
   Browser-based live scratchpad for rendering diagrams from text definitions.
 
-- **[Boop (`IvanMathy/Boop`)](https://github.com/IvanMathy/Boop)** [![GitHub stars](https://img.shields.io/github/stars/IvanMathy/Boop?style=social&color=white)](https://github.com/IvanMathy/Boop/stargazers)  
+- **[Boop (`IvanMathy/Boop`)](https://github.com/IvanMathy/Boop)** [![GitHub_Stars](https://img.shields.io/github/stars/IvanMathy/Boop?style=social&color=white)](https://github.com/IvanMathy/Boop/stargazers)  
   Extensible scriptable scratchpad for macOS with JavaScript transformation scripts.
 
 ---
